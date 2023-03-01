@@ -1,3 +1,3 @@
-#First demo on GitHub
+# First demo on GitHub
 
-try ko lang
+binago ko to
